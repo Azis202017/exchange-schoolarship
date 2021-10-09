@@ -9,12 +9,15 @@ Aplikasi pendaftaran beasiswa
   <li>Table Plus</li>
   <li>Ngrok (Server Port Forwading)</li>
 <ul>
-
+<br>
+<br>
 Tampilan Pendaftaran
 <img src="Screenshot_1633812919.png"  alt=""> 
 
 Tampilan Upload Foto
 <img src="Screenshot_1633813146.png" alt="">
 
-<h3>Tech Stack</h3>
+  
+
+ 
 
